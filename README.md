@@ -1,3 +1,3 @@
 # Blog_test
 
-alpha 0.2
+alpha 0.3

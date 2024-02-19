@@ -12,6 +12,7 @@ class Article(models.Model):
     date = models.DateField()
     owner = models.ForeignKey(User, on_delete=models.CASCADE)
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
+    body = models.TextField()
 
     def __str__(self):
         return self.title

@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-22 06:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < "
+"11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
+"1 : n % 1 != 0 ? 2: 3);\n"
+
+#: tasks/admin.py:18
+msgid "general"
+msgstr ""
+
+#: tasks/admin.py:24
+msgid "ownership"
+msgstr ""
+
+#: tasks/admin.py:29
+msgid "temporal tracking"
+msgstr ""
+
+#: tasks/admin.py:43
+msgid "total tasks"
+msgstr ""
+
+#: tasks/admin.py:47
+msgid "undone tasks"
+msgstr ""
+
+#: tasks/admin.py:51
+msgid "recent tasks"
+msgstr ""
+
+#: tasks/apps.py:9 tasks/models.py:51 tasks/templates/base.html:15
+#: tasks/templates/tasks/index.html:7
+msgid "tasks"
+msgstr ""
+
+#: tasks/models.py:7 tasks/models.py:27
+msgid "name"
+msgstr ""
+
+#: tasks/models.py:11 tasks/models.py:38
+msgid "owner"
+msgstr ""
+
+#: tasks/models.py:19 tasks/models.py:32
+msgid "project"
+msgstr ""
+
+#: tasks/models.py:20 tasks/templates/tasks/index.html:6
+msgid "projects"
+msgstr ""
+
+#: tasks/models.py:28
+msgid "description"
+msgstr ""
+
+#: tasks/models.py:41
+msgid "created at"
+msgstr ""
+
+#: tasks/models.py:42
+msgid "updated at"
+msgstr ""
+
+#: tasks/models.py:43
+msgid "is done"
+msgstr ""
+
+#: tasks/models.py:44
+msgid "deadline"
+msgstr ""
+
+#: tasks/models.py:50 tasks/views.py:31
+msgid "task"
+msgstr ""
+
+#: tasks/templates/base.html:14 tasks/templates/tasks/index.html:4
+msgid "dashboard"
+msgstr ""
+
+#: tasks/templates/tasks/index.html:5
+msgid "users"
+msgstr ""
+
+#: tasks/views.py:33
+msgid "marked as"
+msgstr ""
+
+#: tasks/views.py:34
+msgid "done"
+msgstr ""
+
+#: tasks/views.py:34
+msgid "undone"
+msgstr ""
